@@ -1,0 +1,11 @@
+{
+  "dataset": {
+    "moviesPath": "/dataset/ml-latest-small/movies.csv",
+    "ratingPath": "/dataset/ml-latest-small/ratings.csv",
+    "tagsPath": "/dataset/ml-latest-small/tags.csv"
+  },
+  "embeddings": {
+    "moviesTfidf": "/dataset/saved_embeddings/movies_tfidf_embeddings.pkl",
+    "userRatingsMatrix": "/dataset/saved_embeddings/use_rating_matrix_embeddings.pkl"
+  }
+}
